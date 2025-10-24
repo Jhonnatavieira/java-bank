@@ -51,7 +51,7 @@ Para obter uma cópia local deste projeto e começar a trabalhar nele, siga este
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/Jhonnatavieira/java-bank.git](https://github.com/Jhonnatavieira/java-bank.git)
+    git clone https://github.com/Jhonnatavieira/java-bank.git
     ```
 
 2.  Navegue até a pasta do projeto:
