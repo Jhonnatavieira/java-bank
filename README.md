@@ -17,7 +17,7 @@ Sistema bancário simples desenvolvido em Java, utilizando conceitos de Programa
 
 ## 🛠 Tecnologias utilizadas
 
-- Java 17+
+- Java 21
 - Gradle
 - IntelliJ IDEA
 - Padrões de projeto (POO)
